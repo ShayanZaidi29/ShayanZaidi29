@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a tech enthusiast. <br>👯 Quick learner<br>🌱 I’m currently learning MERN.<br>
+🔭 I am a tech enthusiast. <br>👯 Quick learner<br>🌱 I’m currently learning MERN stack.<br>
 
 
 ## 🌐 Socials:
